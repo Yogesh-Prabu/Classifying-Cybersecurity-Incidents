@@ -1,7 +1,7 @@
-# 🚨 Classifying Cybersecurity Incidents with Machine Learning 🔐
+# Classifying Cybersecurity Incidents with Machine Learning 
 
 ## Project Overview
-The **Classifying Cybersecurity Incidents 🚨** project is a machine learning-based solution designed to enhance the efficiency of **Security Operation Centers (SOCs)**. The project focuses on building a classification model that accurately predicts the triage grade of cybersecurity incidents, assisting SOC analysts in prioritizing their efforts and responding to threats efficiently.
+The **Classifying Cybersecurity Incidents ** project is a machine learning-based solution designed to enhance the efficiency of **Security Operation Centers (SOCs)**. The project focuses on building a classification model that accurately predicts the triage grade of cybersecurity incidents, assisting SOC analysts in prioritizing their efforts and responding to threats efficiently.
 
 The goal is to classify incidents as:
 - **True Positive (TP)**: A confirmed threat.
